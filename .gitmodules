@@ -1,0 +1,12 @@
+[submodule "web-client"]
+	path = web-client
+	url = https://github.com/Arufiand/blog-web-client.git
+[submodule "services/comments-service"]
+	path = services/comments-service
+	url = https://github.com/Arufiand/blog-service-comment.git
+[submodule "services/posts-service"]
+	path = services/posts-service
+	url = https://github.com/Arufiand/blog-service-posts.git
+[submodule "services/event-bus-service"]
+	path = services/event-bus-service
+	url = https://github.com/Arufiand/blog-service-event-bus.git
