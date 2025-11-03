@@ -10,3 +10,6 @@
 [submodule "services/event-bus-service"]
 	path = services/event-bus-service
 	url = https://github.com/Arufiand/blog-service-event-bus.git
+[submodule "services/query-service"]
+	path = services/query-service
+	url = https://github.com/Arufiand/blog-service-query-services.git
