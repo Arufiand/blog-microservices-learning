@@ -6,7 +6,7 @@
 	url = https://github.com/Arufiand/blog-service-comment.git
 [submodule "services/posts-service"]
 	path = services/posts-service
-	url = https://github.com/Arufiand/blog-service-posts.git
+	url = https://github.com/Arufiand/blog-service-posts
 [submodule "services/event-bus-service"]
 	path = services/event-bus-service
 	url = https://github.com/Arufiand/blog-service-event-bus.git
