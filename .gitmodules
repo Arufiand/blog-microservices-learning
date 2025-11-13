@@ -13,3 +13,6 @@
 [submodule "services/query-service"]
 	path = services/query-service
 	url = https://github.com/Arufiand/blog-service-query-services
+[submodule "services/moderation-service"]
+	path = services/moderation-service
+	url = https://github.com/Arufiand/blog-service-moderation.git
