@@ -8,9 +8,9 @@
   </component>
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/services/blog-service-moderation" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/services/comments-service" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/services/event-bus-service" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/services/moderation-service" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/services/posts-service" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/services/query-service" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/web-client" vcs="Git" />
